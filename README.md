@@ -1,4 +1,5 @@
-![mona-loading-default](https://user-images.githubusercontent.com/55195703/173552480-f5bdcb5d-efd8-4c82-beb2-6a74ea2c7557.gif)
+![coding-person](https://user-images.githubusercontent.com/55195703/185292890-8ec00dfe-5be7-4ad7-a565-bcd3e1461f60.gif)
+
 - 👋 Hi, I’m @nguyenducmanh2106
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
