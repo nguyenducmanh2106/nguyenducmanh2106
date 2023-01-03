@@ -26,10 +26,3 @@ I am currently working as a developer in a large software team, delivering featu
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
 </p>
-
-## 📊 My Github Stats
-<p align="center">
-  <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=profjordanov&show_icons=true&include_all_commits=true&theme=radical" />
-  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=profjordanov&include_all_commits=true&theme=radical" />
-  <img width="55%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=profjordanov&layout=compact&theme=radical" />
-</p>
