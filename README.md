@@ -26,3 +26,4 @@ I am currently working as a developer in a large software team, delivering featu
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
 </p>
+<b><i>Cài nút áo đầu tiên đã sai rồi, nhưng đến nút cuối cùng mới phát hiện, vì vậy không thể không cởi hết các nút ra. Có 1 số việc, ngay từ đầu đã sai rồi, nhưng đến lúc không thể cứu vãn mới chịu thừa nhận. Đời người, tiếc nuối lớn nhất chính là dễ dàng từ bỏ thứ không nên từ bỏ, nhưng lại cố chấp kiên trì cái không nên kiên trì.</i></b>
